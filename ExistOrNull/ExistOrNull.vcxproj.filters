@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ExistOrNull.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TILE.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Answer.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ExistOrNull.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TILE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ExistOrNull.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ExistOrNull.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\000.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\001.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\002.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\010.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\011.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\012.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\020.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\021.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\022.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\100.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\101.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\102.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\110.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\111.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\112.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\120.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\121.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\122.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\200.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\201.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\202.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\210.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\211.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\212.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\220.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\221.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\222.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\backcard.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
